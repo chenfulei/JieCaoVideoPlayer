@@ -1,5 +1,5 @@
 # JieCaoVideoPlayer
-## 在JieCaoVideoPlayer 4.8.3版本(播放内核使用的是ijkplayer)基础上进行完善
+## 在JieCaoVideoPlayer (播放内核使用的是ijkplayer)基础上进行完善
 
 
 ## 相关网址如下
